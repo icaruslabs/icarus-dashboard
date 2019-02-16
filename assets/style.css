@@ -36,8 +36,8 @@ body{
 }
 
 .panel{
-	border-right: 3px solid #293a4a;
-    z-index: 100;
+	border-right: 3px solid #d4d4d4;
+	z-index: 100;
 }
 
 .menu-list a{
