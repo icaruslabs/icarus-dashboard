@@ -1,7 +1,9 @@
 # Icarus Labs Dashboad
-[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg "MIT License")](https://github.com/icaruslabs/icarus-desktop/blob/master/LICENSE) 
+This MacOS application allows clients of Icarus Labs easy access to their cPanel accounts. This application is currently in a beta test release.
 
-This MacOS application allows Icarus Labs clients access to their cPanel accounts. 
+__Download:__ https://icaruslabs.io/client.zip
+
+![Screenshot #1](https://icaruslabs.io/images/screenshots/client.png) 
 
 ## Getting Started
 Install dependencies:
@@ -15,4 +17,4 @@ $ npm run package-mac
 ```
 
 ## Credits
-Copyright (c) 2018-2019 [Icarus Labs](https://icaruslabs.io). Built with [Electron](https://electronjs.org). 
+Copyright (c) 2018-2019 [Icarus Labs](https://icaruslabs.io) - Released under the [MIT license](https://github.com/icaruslabs/icarus-desktop/blob/master/LICENSE) . Built with [Electron](https://electronjs.org). 
