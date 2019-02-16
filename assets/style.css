@@ -1,0 +1,55 @@
+body{
+	margin: 0;
+}
+
+.icarus-grey{
+	background: #565656;
+}
+
+.cpanel-grey{
+	background: #f5f5f5;
+}
+
+.framed{
+	height: 900px;
+	width: 1000px; 
+	border: 0;
+}
+
+.menu{
+	padding: 30px 50px 30px 30px;
+	position: fixed;
+	width: 25%;
+}
+
+.center{
+	text-align: center;
+}
+
+.columns, .column{
+	margin: 0 !important;
+	padding: 0 !important;
+}
+
+.menu-label{
+	font-weight: bold;
+}
+
+.panel{
+	border-right: 3px solid #293a4a;
+    z-index: 100;
+}
+
+.menu-list a{
+	transition: 0.2s;
+}
+
+.menu-list a:hover {
+    background-color: #565656 !important;
+    color: #fff !important;
+    transition: 0.2s;
+}
+
+.menu-list li{
+	margin-bottom: 3px;
+}
