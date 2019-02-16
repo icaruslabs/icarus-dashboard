@@ -1,23 +1,33 @@
 {
-  "name": "IcarusLabs",
+  "name": "icaruslabs",
   "productName": "Icarus Labs Dashboard",
   "author": "Sebastian Rodriguez",
   "license": "MIT",
   "version": "0.1.0",
   "main": "main.js",
   "dependencies": {
-    "electron-prebuilt": "^1.4.13"
+    "electron-prebuilt": "^1.4.13",
+    "install": "^0.12.2",
+    "node": "^11.10.0",
+    "npm": "^6.8.0"
   },
   "scripts": {
-    "start": "electron ."
+    "start": "electron .",
+    "package-mac": "electron-packager . --overwrite --platform=darwin --arch=x64 --icon=assets/images/wings.icns --prune=true --out=release-builds",
+    "package-win": "electron-packager . electron-tutorial-app --overwrite --asar=true --platform=win32 --arch=ia32 --icon=assets/icons/win/icon.ico --prune=true --out=release-builds --version-string.CompanyName=CE --version-string.FileDescription=CE --version-string.ProductName=\"Electron Tutorial App\"",
+    "package-linux": "electron-packager . electron-tutorial-app --overwrite --asar=true --platform=linux --arch=x64 --icon=assets/icons/png/1024x1024.png --prune=true --out=release-builds"
   },
   "devDependencies": {
     "electron": "^4.0.5",
     "electron-packager": "^13.0.1"
   },
-  "scripts": {
- "package-mac": "electron-packager . --overwrite --platform=darwin --arch=x64 --icon=assets/images/wings.icns --prune=true --out=release-builds",
-"package-win": "electron-packager . electron-tutorial-app --overwrite --asar=true --platform=win32 --arch=ia32 --icon=assets/icons/win/icon.ico --prune=true --out=release-builds --version-string.CompanyName=CE --version-string.FileDescription=CE --version-string.ProductName=\"Electron Tutorial App\"",    
-"package-linux": "electron-packager . electron-tutorial-app --overwrite --asar=true --platform=linux --arch=x64 --icon=assets/icons/png/1024x1024.png --prune=true --out=release-builds"
- }
+  "description": "This MacOS application is a cPanel client for Icarus Labs customers. This application is currently in a beta test release.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/icaruslabs/icarus-desktop.git"
+  },
+  "bugs": {
+    "url": "https://github.com/icaruslabs/icarus-desktop/issues"
+  },
+  "homepage": "https://github.com/icaruslabs/icarus-desktop#readme"
 }
