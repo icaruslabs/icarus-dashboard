@@ -1,5 +1,6 @@
 body{
 	margin: 0;
+	font-family: sans-serif;
 }
 
 .icarus-grey{
@@ -8,6 +9,10 @@ body{
 
 .cpanel-grey{
 	background: #f5f5f5;
+}
+
+.wings{
+	width: 50px;
 }
 
 .framed{
