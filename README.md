@@ -1,9 +1,9 @@
-# Icarus Labs Dashboad
+# Icarus Labs cPanel Client
 This MacOS application is a cPanel client for Icarus Labs customers. This application is currently in a beta test release.
 
 __Download:__ https://icaruslabs.io/client.zip
 
-![Screenshot](https://icaruslabs.io/images/screenshots/client.png) 
+![Client Dashboard](https://icaruslabs.io/images/screenshots/client.png)
 
 ## Getting Started
 Install dependencies:
