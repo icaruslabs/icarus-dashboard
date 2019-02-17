@@ -8,8 +8,13 @@ Install dependencies:
 ```
 $ npm install
 ```
+Start the application on your local machine:
+
+```
+$ npm start
+```
  
-Build application package:
+Build the application for MacOS:
 ```
 $ npm run package-mac
 ```
