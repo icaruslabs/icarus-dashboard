@@ -25,4 +25,4 @@ $ npm run package-mac
 ```
 
 ## Credits
-Copyright (c) 2018-2019 [Icarus Labs](https://icaruslabs.io), released under the [MIT license](https://github.com/icaruslabs/icarus-desktop/blob/master/LICENSE). Developed by [seb646](https://github.com/seb646) using [Electron](https://electronjs.org).
+Copyright (c) [Icarus Labs](https://icaruslabs.io), 2018-2019. Released under the [MIT license](https://github.com/icaruslabs/icarus-desktop/blob/master/LICENSE). Developed by [seb646](https://github.com/seb646) using [Electron](https://electronjs.org).
