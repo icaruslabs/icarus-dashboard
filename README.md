@@ -6,7 +6,11 @@
 ## About Icarus Dashboard
 Icarus Dashboard is an open source MacOS [cPanel](https://www.cpanel.net/) client built for customers of Icarus Labs.
 
-![Icarus Dashboard](https://icaruslabs.io/images/screenshots/dashboard.png)
+![Login Screenshot](https://icaruslabs.io/images/screenshots/dashboard/login.png)
+![Dashboard Screenshot](https://icaruslabs.io/images/screenshots/dashboard/dashboard.png)
+![Databases Screenshot](https://icaruslabs.io/images/screenshots/dashboard/databases.png)
+![Subdomains Screenshot](https://icaruslabs.io/images/screenshots/dashboard/subdomains.png)
+![Email Accounts Screenshot](https://icaruslabs.io/images/screenshots/dashboard/emails.png)
 
 ## Getting Started
 Install dependencies:
