@@ -1,4 +1,4 @@
-<div align="center"><img src="https://icaruslabs.io/images/logo-gold.png" alt="Icarus Labs" width="350"/>
+<div align="center"><a href="https://icaruslabs.io"><img src="https://icaruslabs.io/images/logo-gold.png" alt="Icarus Labs" width="350"/></a>
 
 [![Version](https://img.shields.io/badge/version-1.0.0-brightgreen.svg "Version")](https://github.com/icaruslabs/icarus-dashboard/releasesd) [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg "MIT License")](https://github.com/icaruslabs/icarus-dashboard/blob/master/LICENSE)
 </div>
