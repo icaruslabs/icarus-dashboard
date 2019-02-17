@@ -1,6 +1,6 @@
-<div align="center"><img src="https://icaruslabs.io/images/logo-gold.png" alt="Icarus Labs" width="400"/>
+<div align="center"><img src="https://icaruslabs.io/images/logo-gold.png" alt="Icarus Labs" width="350"/>
 
-[![Version](https://img.shields.io/badge/version-1.0.0-brightgreen.svg "Version")](https://github.com/seb646/url-shortener/blob/master/LICENSE.md) [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg "MIT License")](https://github.com/seb646/url-shortener/blob/master/LICENSE.md)
+[![Version](https://img.shields.io/badge/version-1.0.0-brightgreen.svg "Version")](https://github.com/icaruslabs/icarus-dashboard/releasesd) [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg "MIT License")](https://github.com/icaruslabs/icarus-dashboard/blob/master/LICENSE)
 </div>
 
 # About Icarus Dashboard
