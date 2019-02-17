@@ -4,7 +4,7 @@
 </div>
 
 ## About Icarus Dashboard
-Icarus Dashboard is an open source MacOS [cPanel](https://www.cpanel.net/) client built for customers of Icarus Labs.
+Icarus Dashboard is an open source MacOS [cPanel](https://www.cpanel.net/) client built for the customers of [Icarus Labs](https://icaruslabs.io).
 
 ## Getting Started
 Install dependencies:
