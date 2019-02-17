@@ -4,7 +4,7 @@
 </div>
 
 ## About Icarus Dashboard
-Icarus Dashboard is a MacOS cPanel client for Icarus Labs's customers.
+Icarus Dashboard is a MacOS cPanel client for Icarus Labs customers.
 
 ![Icarus Dashboard](https://icaruslabs.io/images/screenshots/dashboard.png)
 
