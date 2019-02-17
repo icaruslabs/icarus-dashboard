@@ -6,6 +6,8 @@
 ## About Icarus Dashboard
 Icarus Dashboard is a MacOS cPanel client for Icarus Labs customers.
 
+[Download](https://github.com/icaruslabs/icarus-dashboard/releasesd) | [Support](https://icaruslabs.io/contact/#support)
+
 ![Icarus Dashboard](https://icaruslabs.io/images/screenshots/dashboard.png)
 
 ## Getting Started
