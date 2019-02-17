@@ -2,7 +2,7 @@
 
 [![Version](https://img.shields.io/badge/Download-v1.0.0-brightgreen.svg "Version")](https://github.com/icaruslabs/icarus-dashboard/releases/tag/v1.0.0) [![MIT License](https://img.shields.io/badge/License-MIT-blue.svg "MIT License")](https://github.com/icaruslabs/icarus-dashboard/blob/master/LICENSE) [![Support](https://img.shields.io/badge/Support-red.svg "Support")](https://icaruslabs.io/contact/#support)
 
-Icarus Dashboard is an open source MacOS [cPanel](https://www.cpanel.net/) client built for the customers of [Icarus Labs](https://icaruslabs.io).</div>
+Icarus Dashboard is an open source MacOS [cPanel](https://www.cpanel.net/) client built for the customers of [Icarus Labs](https://icaruslabs.io).</div><br>
 
 ## Getting Started
 Install dependencies:
