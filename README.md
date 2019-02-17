@@ -1,4 +1,9 @@
-# Icarus Dashboard
+<div align="center"><img src="https://icaruslabs.io/images/logo-gold.png" alt="Icarus Labs" width="400"/>
+
+[![Version](https://img.shields.io/badge/version-1.0.0-brightgreen.svg "Version")](https://github.com/seb646/url-shortener/blob/master/LICENSE.md) [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg "MIT License")](https://github.com/seb646/url-shortener/blob/master/LICENSE.md)
+</div>
+
+# About Icarus Dashboard
 Icarus Dashboard is a MacOS cPanel client for Icarus Labs's customers.
 
 ![Icarus Dashboard](https://icaruslabs.io/images/screenshots/dashboard.png)
