@@ -4,13 +4,6 @@
 
 Icarus Dashboard is an open source MacOS [cPanel](https://www.cpanel.net/) client built for the customers of [Icarus Labs](https://icaruslabs.io).</div>
 
-## Screenshots
-![Login Screenshot](https://icaruslabs.io/images/screenshots/dashboard/login.png)
-![Dashboard Screenshot](https://icaruslabs.io/images/screenshots/dashboard/dashboard.png)
-![Databases Screenshot](https://icaruslabs.io/images/screenshots/dashboard/database.png)
-![Subdomains Screenshot](https://icaruslabs.io/images/screenshots/dashboard/subdomains.png)
-![Email Accounts Screenshot](https://icaruslabs.io/images/screenshots/dashboard/emails.png)
-
 ## Getting Started
 Install dependencies:
 ```
@@ -26,6 +19,13 @@ Build the application for MacOS:
 ```
 $ npm run package-mac
 ```
+
+## Screenshots
+![Login Screenshot](https://icaruslabs.io/images/screenshots/dashboard/login.png)
+![Dashboard Screenshot](https://icaruslabs.io/images/screenshots/dashboard/dashboard.png)
+![Databases Screenshot](https://icaruslabs.io/images/screenshots/dashboard/database.png)
+![Subdomains Screenshot](https://icaruslabs.io/images/screenshots/dashboard/subdomains.png)
+![Email Accounts Screenshot](https://icaruslabs.io/images/screenshots/dashboard/emails.png)
 
 ## Credits
 Copyright (c) [Icarus Labs](https://icaruslabs.io), 2018-2019. Released under the [MIT license](https://github.com/icaruslabs/icarus-desktop/blob/master/LICENSE). Developed by [seb646](https://github.com/seb646) using [Electron](https://electronjs.org).
