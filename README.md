@@ -1,12 +1,10 @@
-<div align="center"><a href="https://icaruslabs.io"><img src="https://icaruslabs.io/images/logo-gold.png" alt="Icarus Labs" width="350"/></a>
+<div align="center"><a href="https://icaruslabs.io"><img src="https://icaruslabs.io/images/logo-gold.png" alt="Icarus Labs" width="350"/></a> 
 
-[![Version](https://img.shields.io/badge/version-1.0.0-brightgreen.svg "Version")](https://github.com/icaruslabs/icarus-dashboard/releasesd) [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg "MIT License")](https://github.com/icaruslabs/icarus-dashboard/blob/master/LICENSE)
+[![Download](https://img.shields.io/badge/Download-success.svg "Download")](https://github.com/icaruslabs/icarus-dashboard/releases/tag/v1.0) [![MIT License](https://img.shields.io/badge/License-MIT-blue.svg "MIT License")](https://github.com/icaruslabs/icarus-dashboard/blob/master/LICENSE) [![Version](https://img.shields.io/badge/Version-1.0.0-lightgrey.svg "Version")](https://github.com/icaruslabs/icarus-dashboard/releasesd) [![Support](https://img.shields.io/badge/Support-red.svg "Support")](https://icaruslabs.io/contact/#support)
 </div>
 
 ## About Icarus Dashboard
 Icarus Dashboard is a MacOS cPanel client for Icarus Labs customers.
-
-[Download](https://github.com/icaruslabs/icarus-dashboard/releasesd) | [Support](https://icaruslabs.io/contact/#support)
 
 ![Icarus Dashboard](https://icaruslabs.io/images/screenshots/dashboard.png)
 
