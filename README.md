@@ -1,9 +1,7 @@
 # Icarus Dashboard
 Icarus Dashboard is a MacOS cPanel client for Icarus Labs's customers.
 
-__Download:__ https://icaruslabs.io/client.zip
-
-![Client Dashboard](https://icaruslabs.io/images/screenshots/client.png)
+![Icarus Dashboard](https://icaruslabs.io/images/screenshots/dashboard.png)
 
 ## Getting Started
 Install dependencies:
