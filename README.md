@@ -25,7 +25,7 @@ $ npm run package-mac
 ## Screenshots
 ![Login Screenshot](https://icaruslabs.io/images/screenshots/dashboard/login.png)
 ![Dashboard Screenshot](https://icaruslabs.io/images/screenshots/dashboard/dashboard.png)
-![Databases Screenshot](https://icaruslabs.io/images/screenshots/dashboard/databases.png)
+![Databases Screenshot](https://icaruslabs.io/images/screenshots/dashboard/database.png)
 ![Subdomains Screenshot](https://icaruslabs.io/images/screenshots/dashboard/subdomains.png)
 ![Email Accounts Screenshot](https://icaruslabs.io/images/screenshots/dashboard/emails.png)
 
