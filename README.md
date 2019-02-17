@@ -3,7 +3,7 @@ This MacOS application is a cPanel client for Icarus Labs customers. This applic
 
 __Download:__ https://icaruslabs.io/client.zip
 
-![Screenshot #1](https://icaruslabs.io/images/screenshots/client.png) 
+![Screenshot](https://icaruslabs.io/images/screenshots/client.png) 
 
 ## Getting Started
 Install dependencies:
