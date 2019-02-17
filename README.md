@@ -1,10 +1,8 @@
 <div align="center"><a href="https://icaruslabs.io"><img src="https://icaruslabs.io/images/logo-gold.png" alt="Icarus Labs" width="350"/></a> 
 
 [![Version](https://img.shields.io/badge/Download-v1.0.0-brightgreen.svg "Version")](https://github.com/icaruslabs/icarus-dashboard/releases/tag/v1.0.0) [![MIT License](https://img.shields.io/badge/License-MIT-blue.svg "MIT License")](https://github.com/icaruslabs/icarus-dashboard/blob/master/LICENSE) [![Support](https://img.shields.io/badge/Support-red.svg "Support")](https://icaruslabs.io/contact/#support)
-</div>
 
-## About Icarus Dashboard
-Icarus Dashboard is an open source MacOS [cPanel](https://www.cpanel.net/) client built for the customers of [Icarus Labs](https://icaruslabs.io).
+Icarus Dashboard is an open source MacOS [cPanel](https://www.cpanel.net/) client built for the customers of [Icarus Labs](https://icaruslabs.io).</div>
 
 ## Screenshots
 ![Login Screenshot](https://icaruslabs.io/images/screenshots/dashboard/login.png)
