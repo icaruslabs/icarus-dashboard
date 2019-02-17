@@ -1,6 +1,6 @@
 <div align="center"><a href="https://icaruslabs.io"><img src="https://icaruslabs.io/images/logo-gold.png" alt="Icarus Labs" width="350"/></a> 
 
-[![Download](https://img.shields.io/badge/Download-success.svg "Download")](https://github.com/icaruslabs/icarus-dashboard/releases) [![MIT License](https://img.shields.io/badge/License-MIT-blue.svg "MIT License")](https://github.com/icaruslabs/icarus-dashboard/blob/master/LICENSE) [![Version](https://img.shields.io/badge/Version-1.0.0-lightgrey.svg "Version")](https://github.com/icaruslabs/icarus-dashboard/releases/tag/v1.0) [![Support](https://img.shields.io/badge/Support-red.svg "Support")](https://icaruslabs.io/contact/#support)
+[![Download](https://img.shields.io/badge/Download-success.svg "Download")](https://github.com/icaruslabs/icarus-dashboard/releases) [![MIT License](https://img.shields.io/badge/License-MIT-blue.svg "MIT License")](https://github.com/icaruslabs/icarus-dashboard/blob/master/LICENSE) [![Version](https://img.shields.io/badge/Version-1.0.0-lightgrey.svg "Version")](https://github.com/icaruslabs/icarus-dashboard/releases/tag/v1.0.0) [![Support](https://img.shields.io/badge/Support-red.svg "Support")](https://icaruslabs.io/contact/#support)
 </div>
 
 ## About Icarus Dashboard
