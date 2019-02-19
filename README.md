@@ -5,11 +5,14 @@
 Icarus Dashboard is an open source MacOS [cPanel](https://www.cpanel.net/) client built for the customers of [Icarus Labs](https://icaruslabs.io).</div><br>
 
 ## Getting Started
-Install dependencies:
+To install Icarus Dashboard on a MacOS device, please download the zip file in our [latest release](https://github.com/icaruslabs/icarus-dashboard/releases). The extracted folder contains the application, which you should move in your Applications folder. You must have Icarus Labs cPanel credentials to use Icarus Dashboard.
+
+#### For Developers: 
+Install dependencies (electron-prebuilt, node, npm, electron, electron-packager):
 ```
 $ npm install
 ```
-Start the application on your local machine:
+Test start the application:
 
 ```
 $ npm start
