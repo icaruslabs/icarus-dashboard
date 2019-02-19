@@ -50,9 +50,17 @@ body{
 }
 
 .menu-list a:hover {
-    background-color: #565656 !important;
-    color: #fff !important;
+    background-color: #ececec !important;
+    color: initial !important;
     transition: 0.2s;
+}
+
+.menu-list a.is-active{
+	background-color: #565656 !important;
+}
+
+.menu-list a.is-active:hover{
+	color: #fff !important;
 }
 
 .menu-list li{
