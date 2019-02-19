@@ -11,15 +11,11 @@ To install Icarus Dashboard on a MacOS device, please download the zip file in o
 Install dependencies ([node](https://github.com/nodejs/node), [npm](https://github.com/npm/cli), [electron](https://github.com/electron/electron), [electron-packager](https://github.com/electron-userland/electron-packager)):
 ```
 $ npm install
-
 ```
-
-Manually start the application:
-
+Start the application:
 ```
 $ npm start
 ```
-
  
 Build the application for MacOS:
 ```
