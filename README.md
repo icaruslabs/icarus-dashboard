@@ -21,6 +21,7 @@ Build the application for MacOS:
 ```
 $ npm run package-mac
 ```
+<br>
 
 ## Screenshots
 ![Login Screenshot](https://icaruslabs.io/images/screenshots/dashboard/login.png)
