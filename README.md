@@ -12,7 +12,7 @@ Install dependencies (electron-prebuilt, node, npm, electron, electron-packager)
 ```
 $ npm install
 ```
-Test start the application:
+Manually start the application:
 
 ```
 $ npm start
