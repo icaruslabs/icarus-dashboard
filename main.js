@@ -1,10 +1,15 @@
-const { app, BrowserWindow, Menu, shell } = require('electron')
+const { app, BrowserWindow, Menu, shell, session } = require('electron')
 
 // Keep a global reference of the window object, if you don't, the window will
 // be closed automatically when the JavaScript object is garbage collected.
 let win
 
 function createWindow () {
+  // Query all cookies associated with Icarus Labs
+  session.defaultSession.cookies.get({}, (error, cookies) => {
+    console.log(error, cookies)
+  })
+  
   // Create the browser window.
   win = new BrowserWindow({ width: 1200, height: 800, icon: __dirname + 'assets/images/wings.icns' })
 
